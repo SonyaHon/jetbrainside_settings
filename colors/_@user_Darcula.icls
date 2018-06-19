@@ -4,7 +4,7 @@
     <property name="created">2018-03-14T16:44:34</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-06-19T21:46:59</property>
+    <property name="modified">2018-06-19T21:59:10</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -23,7 +23,7 @@
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="979fad" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
